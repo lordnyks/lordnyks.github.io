@@ -1,7 +1,7 @@
 var seener = new Vue({
     el: '#app',
     data: {
-      seen: true
+      seen: false
     }
   })
   
